@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Bemnet 
+- 👀 I’m interested in all kinds of code and IRL implimentation.
+- 🌱 I’m currently learning Computer science at MNSU
+- 💞️ I’m looking to collaborate on web dev projects abd AR tech
+- 📫 Feel dree to contact me through Gethub or emai @ Bemnet64@gmail.com
